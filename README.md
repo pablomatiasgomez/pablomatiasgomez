@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo Matias Gomez, writing software in different languages starting from 2011.
+I'm Pablo Matias Gomez, writing software in different languages since 2011.
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
